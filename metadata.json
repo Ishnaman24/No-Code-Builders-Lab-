@@ -1,0 +1,5 @@
+{
+  "name": "CineVista AI",
+  "description": "An intelligent movie recommendation platform featuring AI-curated lists, deep-dive movie details, and personalized preference tracking.",
+  "requestFramePermissions": []
+}
